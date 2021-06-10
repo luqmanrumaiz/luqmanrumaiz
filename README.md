@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [ONCO](https://github.com/Ammar-Raneez/SDGP-ONCO).
-- 🌱 I’m currently learning more about Mobile Application Development.
-- 📫 How to reach me: [Twitter - @luqmanrumaiz](https://twitter.com/luqmanrumaiz)
+- 🔭 I’m currently working on [Cool Chat App](https://github.com/Luqman-Rumaiz/Cool-Chat-App).
+- 🌱 I’m currently learning more about React and some Backend Frameworks
+- 📫 How to reach me: Discord - Luqman #0187
 - <img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/5167332?s=40&v=4" /> Manjaro Linux and Windows 10 
  
 [![Linkedin: luqmanrumaiz](https://img.shields.io/badge/-luqmanrumaiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqmanrumaiz/)](https://www.linkedin.com/in/luqmanrumaiz/)
