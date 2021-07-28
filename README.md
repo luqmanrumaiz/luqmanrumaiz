@@ -6,8 +6,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Cool Chat App](https://github.com/Luqman-Rumaiz/Cool-Chat-App).
-- 🌱 I’m currently learning more about React and some Backend Frameworks
+<!---
+- 🔭 I’m currently working on [Cool Chat App](https://github.com/Luqman-Rumaiz/Cool-Chat-App.
+-->
+- 🌱 I’m currently learning more about Dot Net and some Backend Frameworks
 - 📫 How to reach me: Discord - Luqman #0187
 - <img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/5167332?s=40&v=4" /> Manjaro Linux and Windows 10 
  
