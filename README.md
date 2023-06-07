@@ -1,5 +1,7 @@
 ## Hey There, I'm Luqman Rumaiz 👋
 
+![](https://media.tenor.com/8tbLhifgyEEAAAAC/excited.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqman&label=Views&color=blue&style=plastic" alt="luqmanrumaiz" /> </p>
 
 [![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqmanrumaiz)](https://github.com/anuraghazra/github-readme-stats)
