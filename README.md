@@ -5,7 +5,7 @@
 [![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqmanrumaiz)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
  
-<a href="https://app.daily.dev/luqmanrumaiz"><img src="https://api.daily.dev/devcards/67db4662ade9459baa9b160459db426f.png?r=qhs" width="400" alt="Luqman Rumaiz's Dev Card"/></a>
+<a href="https://app.daily.dev/luqmanrumaiz"><img src="https://github.com/luqmanrumaiz/luqmanrumaiz/blob/main/devcard.svg" width="400" alt="Luqman Rumaiz's Dev Card"/></a>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
