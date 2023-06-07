@@ -2,20 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqman&label=Views&color=blue&style=plastic" alt="luqmanrumaiz" /> </p>
 
-[![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqmanrumaiz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqmanrumaiz)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<br/>
-
-<!---
-- 🔭 I’m currently working on [Cool Chat App](https://github.com/Luqman-Rumaiz/Cool-Chat-App.
--->
-- 🌱 I’m currently learning more about Dot Net and some Backend Frameworks
-- 📫 How to reach me: Discord - Luqman #0187
-- <img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/5167332?s=40&v=4" /> Manjaro Linux and Windows 10 
  
-[![Linkedin: luqmanrumaiz](https://img.shields.io/badge/-luqmanrumaiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqmanrumaiz/)](https://www.linkedin.com/in/luqmanrumaiz/)
-[![GitHub luqmanrumaiz](https://img.shields.io/github/followers/luqmanrumaiz?label=follow&style=social)](https://github.com/luqmanrumaiz)
-
+<a href="https://app.daily.dev/luqmanrumaiz"><img src="https://api.daily.dev/devcards/67db4662ade9459baa9b160459db426f.png?r=qhs" width="400" alt="Luqman Rumaiz's Dev Card"/></a>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
