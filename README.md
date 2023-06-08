@@ -1,9 +1,10 @@
 ## Hey There, I'm Luqman Rumaiz 👋
 
-![](https://media.tenor.com/8tbLhifgyEEAAAAC/excited.gif)
- 
-<a href="https://app.daily.dev/luqmanrumaiz"><img src="https://github.com/luqmanrumaiz/luqmanrumaiz/blob/main/devcard.svg" width="400" alt="Luqman Rumaiz's Dev Card"/></a>
-
+<p align="center">
+ <a href="https://app.daily.dev/luqmanrumaiz">
+  <img src="https://github.com/luqmanrumaiz/luqmanrumaiz/blob/main/devcard.svg" width="400" align="center" alt="Luqman Rumaiz's Dev Card"/>
+ </a>
+</p>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
