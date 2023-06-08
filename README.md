@@ -1,13 +1,9 @@
 ## Hey There, I'm Luqman Rumaiz 👋
 
 ![](https://media.tenor.com/8tbLhifgyEEAAAAC/excited.gif)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luqman&label=Views&color=blue&style=plastic" alt="luqmanrumaiz" /> </p>
-
-[![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqmanrumaiz)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
  
 <a href="https://app.daily.dev/luqmanrumaiz"><img src="https://github.com/luqmanrumaiz/luqmanrumaiz/blob/main/devcard.svg" width="400" alt="Luqman Rumaiz's Dev Card"/></a>
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,4 +30,3 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Play" width="26px" src="https://avatars.githubusercontent.com/u/319107?s=40&v=4" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
