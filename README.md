@@ -1,7 +1,7 @@
 <h1 align="center">
- 👋 Peace be upon you | السلام عليكم
+Peace be upon you | السلام عليكم
  <br/>
- My name is Luqman Rumaiz 🇱🇰
+ My name is Luqman Rumaiz 🇱🇰 👋
 </h1>
 
 <h2>
@@ -56,6 +56,5 @@ const aboutMe = {
 <br/>
 
 ## 🤙 Stay Connected !
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luqmanrumaiz/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luqman.rumaiz@gmail.com)
