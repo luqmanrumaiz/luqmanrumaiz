@@ -24,9 +24,8 @@ const aboutMe = {
          java: ["Spring"],
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      mvc: ["Codeigniter"],
+      cloudPlatforms: ["Firebase", "Azure", "AWS"],
       databases: ["MongoDB", "mySQL", "SQLServer", "Firestore"],
       mobile: ["Android", "Flutter"]
    },
